@@ -15,7 +15,6 @@ Before going independent I spent over two years in consulting (Accenture, Conect
 ## Featured projects
 
 - [rag-document-qa](https://github.com/rayperatta/rag-document-qa): production-ready RAG system for PDF Q&A. LangChain, ChromaDB, FastAPI, Docker.
-- [ai-job-hunter](https://github.com/rayperatta/ai-job-hunter): multi-agent LangGraph system that scrapes job postings, analyzes fit, and tailors CVs and cover letters.
 - [n8n-lead-enrichment](https://github.com/rayperatta/n8n-lead-enrichment): n8n workflow that scores inbound leads with an LLM and routes each one by score.
 - [ai-document-intake](https://github.com/rayperatta/ai-document-intake): LLM-powered extraction from emails, PDFs and invoices into Postgres, with validation and automatic routing.
 - [dailyops-bot](https://github.com/rayperatta/dailyops-bot): .NET 8 reporting bot. Ingests operational data, detects anomalies, generates Excel/PDF reports on a daily schedule.
